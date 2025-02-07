@@ -1,4 +1,11 @@
-## Hi there 👋
+# 썰렁한 농담을 넣을 것
+
+## 깃허브 기록들
+
+![Azruine's github stats](https://github-readme-stats.vercel.app/api?username=Azruine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azruine&layout=compact)
+
+
 
 <!--
 **Azruine/Azruine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
