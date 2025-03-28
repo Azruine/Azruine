@@ -5,6 +5,8 @@
 ![Azruine's github stats](https://github-readme-stats.vercel.app/api?username=Azruine)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azruine&layout=compact)
 
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
 
 
 <!--
