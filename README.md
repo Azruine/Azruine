@@ -1,6 +1,6 @@
-# 깃허브에 올릴 무언가를 작성하였음
+# 마이 깃허브 프로필
 
-여기에 뭘 쓰는게 좋을까?
+우주인이 맥을 쓰는 이유: 창문(Windows)를 못 열어서. 푸하하하.
 
 ## 쓸 줄은 압니다
 
@@ -8,12 +8,32 @@
 
 ## 배우고 싶습니다
 
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 
-## 깃허브 기록들
+## 몇 가지 기록들
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Azruine&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azruine&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False">
+<div>
+  <h2>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
+      <img src="https://cdn.simpleicons.org/github/black" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
+      Github
+    </picture>
+  </h2>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Azruine&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" height="200">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azruine&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" height="200">
+  <h2>
+    <img src="https://static.solved.ac/logo.svg" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
+    solved.ac
+  </h2>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=azruine">
+  <p>
+    사실 솔브드 레이팅은 정수론으로 날먹한거라 실제 알고리즘 실력은 실골정도 됩니다.
+    <br>
+    실력이 레이팅에 비해 부족해서 지금은 태그 레이팅을 올리고 있습니다.
+  </p>
 </div>
 
 ## 0 vs NULL
