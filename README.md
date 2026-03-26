@@ -1,8 +1,8 @@
-# 마이 깃허브 프로필
+# 깃허브 프로필
 
-제가 개쩌는 개발자용 농담을 만들었거든요? 근데 제 컴퓨터에서만 동작하네요.
+제가 엄청 멋지고 대단한 개발자용 농담을 만들었거든요? 근데 제 컴퓨터에서만 동작해서 여기에는 못 쓰네요.
 
-## 쓸 줄은 압니다
+## 그럭저럭 사용할 줄 압니다
 
 <img src="https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
@@ -44,11 +44,7 @@
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=azruine">
   <p>
     <br>
-    사실 솔브드 레이팅은 정수론으로 날먹한거라 실제 알고리즘 실력은 실골정도 됩니다.
-    <br>
-    실력이 레이팅에 비해 부족해서 지금은 태그 레이팅을 올리고 있습니다.
-    <br>
-    이거 보세요 프로그래밍 언어인 HTML도 못 다뤄서 행간이 좁잖아요.
+    사실 솔브드 레이팅은 수학으로 올렸습니다. 기본 실력이 부족하네요.
   </p>
    <h2>
     <picture>
